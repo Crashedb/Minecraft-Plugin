@@ -1,0 +1,16 @@
+name: Vida
+authors: [Crashedb]
+version: 1.0
+main: main.crashedb.main
+description: Esse Plugin é utilizado para a recuperação da vida
+
+commands:
+  send:
+  permission: send.use
+  permission-message: Oi sumido rs, voce não pode usar esse comando.
+  description: Mandar uma mensagem
+  heal:
+   send:
+  permission: send.use
+  permission-message: Oi sumido rs, voce não pode usar esse comando.
+  description: Mandar uma mensagem
